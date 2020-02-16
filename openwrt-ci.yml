@@ -9,7 +9,7 @@
 
 name: OpenWrt-CI
 
-# 注释下列#号以及空格
+# 注释下列1.2.3行的#号以及空格
 on:
   # push:
   #   branches: 
